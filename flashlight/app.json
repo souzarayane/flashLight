@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "flashlight",
+    "slug": "snack-df9f3196-4cda-461b-b3a5-32f465ab94de",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dioreactnative.flashlight",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF",
+        "package": "com.dioreactnative.flashlight",
+        "versionCode": 1
+      },
+      "package": "com.dioreactnative.flashlight"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Construir um app usando sensor de movimento com react native."
+  }
+}
