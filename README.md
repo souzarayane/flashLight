@@ -14,6 +14,6 @@ Instrutor @ismaelsousa da Digital Innovation One - DIO. Bootcamp Decola Tech #3.
 </ul>
 
 <div>
-  <img src="">
-  <img src="">
+  <img src="https://github.com/souzarayane/flashLight/blob/main/flashlight/assets/LightOn.png">
+  <img src="https://github.com/souzarayane/flashLight/blob/main/flashlight/assets/LightOff.png">
 </div>  
